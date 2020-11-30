@@ -1,0 +1,19 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "primera prueba con npm()\u001b[D\u001b[C\u001b[Dgestor de node)",
+  "main": "javascript(15).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reyes-sudo/Practica-Web15.git"
+  },
+  "author": "jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reyes-sudo/Practica-Web15/issues"
+  },
+  "homepage": "https://github.com/Reyes-sudo/Practica-Web15#readme"
+}
